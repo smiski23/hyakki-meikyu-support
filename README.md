@@ -1,2 +1,2 @@
 # hyakki-meikyu-support
-百鬼迷宮 support &amp; privacy policy
+妖怪迷宮 support &amp; privacy policy
